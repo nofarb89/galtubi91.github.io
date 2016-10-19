@@ -15,7 +15,6 @@ image:
 
 testing interaction from sdk:
 
-<!--<interaction id="56891a883a731d3e71b27850"></interaction>-->
 <iframe src="//renderer.qmerce.com/interaction/58074127605e06ce178016de"  width="100%" height="708" frameborder="0" scrolling="no"></iframe>
 
 For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.
