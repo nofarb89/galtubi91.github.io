@@ -16,32 +16,7 @@ Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Aus
 
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 <br/><br/>
-<div style="min-height:992px; padding-bottom:calc(((600px - 100%) *1.523)); position: relative; box-sizing: content-box;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847ff6c1979fff43d0e8dc4"  width="100%" height="100%" style="min-height: 992px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-
-<br/><br/>
-<div style="min-height:350px; padding-bottom:calc(((600px - 100%) *0.453)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847d66e1979fff43d0e8d9f"  width="100%" height="100%" style="min-height: 350px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-
-<br/><br/>
-<div style="min-height:1079px; padding-bottom:calc(((600px - 100%) *1.668)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e2121979fff43d0e8db4"  width="100%" height="100%" style="min-height: 1079px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-
-<br/><br/>
-<div style="min-height:1208px; padding-bottom:calc(((600px - 100%) *1.883)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e0e01979fff43d0e8daa"  width="100%" height="100%" style="min-height: 1208px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-
-<br/><br/>
-<div style="min-height:421px; padding-bottom:calc(((600px - 100%) *0.572)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e4021979fff43d0e8dbb"  width="100%" height="100%" style="min-height: 421px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-
-<br/><br/>
-<div style="min-height:1432px; padding-bottom:calc(((600px - 100%) *2.257)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e24a1979fff43d0e8db7"  width="100%" height="100%" style="min-height: 1432px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-<br/><br/>
-<div style="min-height:350px; padding-bottom:calc(((600px - 100%) *0.453)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e19b1979fff43d0e8db2"  width="100%" height="100%" style="min-height: 350px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-<br/><br/>
-<div style="min-height:350px; padding-bottom:calc(((600px - 100%) *0.453)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e1611979fff43d0e8daf"  width="100%" height="100%" style="min-height: 350px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-<br/><br/>
-<div style="min-height:695px; padding-bottom:calc(((600px - 100%) *1.028)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e1261979fff43d0e8dad"  width="100%" height="100%" style="min-height: 695px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-<br/><br/>
-<div style="min-height:1502px; padding-bottom:calc(((600px - 100%) *2.373)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e0801979fff43d0e8da6"  width="100%" height="100%" style="min-height: 1502px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
-<br/><br/>
-<div style="min-height:350px; padding-bottom:calc(((600px - 100%) *0.453)); position: relative;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847d7291979fff43d0e8da2"  width="100%" height="100%" style="min-height: 350px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
+<div style="min-height:350px; padding-bottom:calc(((600px - 100%) *0.453)); position: relative; box-sizing: content-box;"><iframe src="//stage1-renderer.qmerce.com/interaction/5847e19b1979fff43d0e8db2"  width="100%" height="100%" style="min-height: 350px !important; position: absolute" frameborder="0" scrolling="no"></iframe></div>
 
 
 
